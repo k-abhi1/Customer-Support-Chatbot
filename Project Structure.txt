@@ -1,0 +1,13 @@
+chatbot-project/
+│
+├── backend/
+│   ├── app.py                 # Flask application
+│   ├── requirements.txt       # Python dependencies
+│   ├── .env                  # Environment variables (secrets)
+│   └── faq_data.json         # Sample FAQ for NLU
+│
+└── frontend/
+    ├── index.html            # Login page
+    ├── chat.html             # Main chat interface
+    ├── style.css             # Global styling
+    └── script.js             # Frontend logic (AJAX, token handling)

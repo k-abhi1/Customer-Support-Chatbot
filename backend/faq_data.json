@@ -1,0 +1,8 @@
+
+{
+  "greeting": ["hello", "hi", "hey"],
+  "hours": ["hours", "open", "working time"],
+  "refund": ["refund", "return", "money back"],
+  "contact": ["contact", "support", "human", "agent"]
+}
+
