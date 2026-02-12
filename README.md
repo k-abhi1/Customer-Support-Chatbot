@@ -6,7 +6,6 @@
 A secure and intelligent **AI-powered customer support chatbot** built using Python (Flask) and modern web technologies. This system supports natural language queries, image-based text extraction (OCR), JWT authentication, and is designed for future Azure cloud integration.
 # mob view
 
-![alt text](<Screenshot 2026-02-12 at 6.30.59 PM.png>)
 
 ---
 
